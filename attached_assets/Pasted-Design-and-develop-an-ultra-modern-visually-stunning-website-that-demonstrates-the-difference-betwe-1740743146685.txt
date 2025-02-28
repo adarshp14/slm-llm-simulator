@@ -1,0 +1,19 @@
+Design and develop an ultra-modern, visually stunning website that demonstrates the difference between small and large language models through an interactive, data-driven experience. The website should have a sleek, professional aesthetic with a fluid, visually engaging user interface. Use a high-contrast color palette with gradients, dynamic icons, and smooth animations to guide users seamlessly through the simulation process. Implement parallax scrolling, hover effects, and soft-glow elements to enhance usability and visual appeal. The website should include the following key features:
+
+Simulation Panel: Users can input a number of test cases to run in parallel, sending them to both a small and large language model. Results should be instantly displayed, showing the output from each model side by side in a card-style UI with animations.
+
+Performance & Cost Comparison: A real-time, animated bar chart visually showcases the inference time differences between small and large models, emphasizing cost savings and computational efficiency. The chart should use vibrant color schemes with animated tooltips and smooth transitions.
+
+Response Showcase: The top 5 sample outputs from both models should be presented in an elegant, visually structured way, showing how the classification results compare. The UI should have toggle animations, allowing users to explore the responses interactively.
+
+Live Cost Estimation: The site should dynamically calculate and display the cost savings of using a small model vs a large model, represented in an eye-catching, modern cost savings card with glowing UI effects.
+
+Error Handling & Smooth UX: If the backend fails, the UI should gracefully handle errors, displaying an elegant floating notification system that informs users of any issues with a soft animation.
+
+Fully Responsive & Aesthetic: The site should be designed for desktop, tablet, and mobile users, with a beautiful, well-structured layout that looks great on any device. Use tailored typography (e.g., Poppins for headlines, Inter for body text) to ensure maximum readability and design harmony.
+
+Microinteractions & Animations: Implement subtle button hover effects, card flips, and transition effects that bring the site to life without compromising performance. Include Framer Motion animations for smooth state transitions and visibility effects.
+
+Call to Action & Engagement: Encourage users to explore the impact of language model selection through interactive tooltips and engaging infographics that explain the significance of using smaller, more efficient models in real-world applications.
+
+"The final website should feel futuristic, intuitive, and deeply engaging, combining artistic elegance with data-driven storytelling. Ensure a polished user experience with seamless navigation, real-time performance updates, and an overall design that is both functional and awe-inspiring. The website should not only educate users but also make the topic of AI model efficiency visually and emotionally compelling.
